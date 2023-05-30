@@ -1,2 +1,2 @@
 # Landing_Page2
-Single Product Landing Page websites. Using HTML, CSS, JAVASCRIPT
+Single Product Landing Page website. Using HTML, CSS, JAVASCRIPT
