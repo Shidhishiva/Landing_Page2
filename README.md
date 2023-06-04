@@ -5,5 +5,5 @@ This webpage is hoisted on github pages. [Link](https://shidhishiva.github.io/La
 
 Single Product Landing Page websites. Using HTML, CSS, JAVASCRIPT.
 
-![My Image](images/
+![My Image](images/sample1.png)
 
